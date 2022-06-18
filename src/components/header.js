@@ -13,7 +13,7 @@ const header = () => {
         </div>
         <div className="header-button  flex">
           <a
-            href="https://github.com"
+            href="https://github.com/Omkar0803/Expencer-ExpenseList-Managment-"
             target="_blank"
             className=" flex p-2 bg-gray-900 rounded-lg text-[0.9rem] hover:bg-gray-800 ease-in-out duration-100 hover:scale-105"
           >
