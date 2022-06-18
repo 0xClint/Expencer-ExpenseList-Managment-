@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-You can Visit the webpage https://expencer-expenselist.herokuapp.com/add-expense
+You can Visit the webpage https://expencer-expenselist.herokuapp.com/
 
 ## Available Scripts
 
